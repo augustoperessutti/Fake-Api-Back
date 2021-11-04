@@ -1,0 +1,110 @@
+{
+  "banners":[
+    {
+      "id": "1",
+      "src": "https://images.unsplash.com/photo-1616071358409-ef30a44a90bb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW91c2VwYWR8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "alt": "Mousepad Banner"
+    },
+    {
+      "id": "2",
+      "src": "https://cdna.artstation.com/p/assets/images/images/007/690/468/large/evan-winters-turtlebeachelitepro-flash.jpg",
+      "alt": "Headphones Gaming Banner"
+    },
+    {
+      "id": "3",
+      "src": "https://i.pinimg.com/736x/7f/22/a9/7f22a9f97aee1f3874adc2ebab25e2c4.jpg",
+      "alt": "Mouse Gaming Banner"
+    },
+    {
+      "id": "4",
+      "src": "https://c0.wallpaperflare.com/preview/316/361/238/black-logitech-g-series-gaming-mouse-on-red-surface.jpg",
+      "alt": "Mousepad + Mouse Banner"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Logitech G203 Lightsync 2nd Gen Ratón Gaming 8000DPI RGB Negro",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/28/287353/logitech-g203-lightsync-2nd-gen-raton-gaming-8000dpi-rgb-negro.jpg",
+      "description": "Aprovecha al máximo tu tiempo de juego con el ratón G203 2nd Gen para gaming, con tecnología LIGHTSYNC, un sensor para gaming y un diseño clásico con 6 botones. Anima tu juego... y tu escritorio.",
+      "price": 18
+    },
+    {
+      "id": "2",
+      "title": "Razer DeathAdder V2 Raton Gaming 20000DPI",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/25/257969/razer-deathadder-v2-raton-gaming-20000dpi-248c0ca1-8de0-4571-a85e-aa88d4e7b2d1.jpg",
+      "description": "Sé testigo de un icono renacido con el Razer DeathAdder V2: un ratón ergonómico diseñado con curvas de vértigo y líneas letales para un arma que se maneja como ninguna otra. Ha comenzado una nueva era de juegos de alto rendimiento gracias a su sensor de última generación y switches en un diseño más ligero.",
+      "price": 70
+    },
+    {
+      "id": "3",
+      "title": "Steelseries Sensei Ten Ratón Gaming 18000 DPI",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/29/298506/1148-steelseries-sensei-ten-raton-gaming-18000-dpi.jpg",
+      "description": "El Sensei Ten es un ratón de juego competitivo construido para ofrecer un gran rendimiento y durabilidad. Considerado durante mucho tiempo como el rey de los ratones de juego, su forma icónica y el rendimiento del SteelSeries Sensei definieron el mundo de los ratones de competición. El Sensei Ten continúa el legado histórico de Sensei con su forma ambidiestra icónica que define la industria. Cuenta con nuevas mejoras, como un nuevo y elegante acabado, materiales hiperduraderos diseñados con polímero de alta calidad, un sensor TrueMove Pro de 18 000 CPI y una garantía de 60 millones de clics, lo que garantiza que el primer clic se sienta tan nítido y fiable como el último. ",
+      "price": 70
+    },
+    {
+      "id": "4",
+      "title": "SteelSeries Aerox 3 Wireless Ratón Gaming Inalámbrico 18000 DPI Negro",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/57/579781/1426-steelseries-aerox-3-wireless-raton-gaming-inalambrico-18000-dpi-negro.jpg",
+      "description": "Aerox 3 Wireless está optimizado para obtener los golpes más rápidos en los juegos, por lo que vence a la competencia hasta el final. Cuando los milisegundos cuentan, la velocidad importa.",
+      "price": 141
+    },
+    {
+      "id": "5",
+      "title": "Tempest K9 RGB Backlit Teclado Gaming RGB",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/13/137837/tempest-k9-rgb-backlit-gaming-keyboard-01.jpg",
+      "description": "Con un diseño gaming, ligero y súper compacto, el K9 RGB Backlit Gaming Keyboard es un increíble teclado con retroiluminación RGB, conexión USB y 105 teclas con disposición en español. Elige entre sus nueve modos de retroiluminación, diviértete con los siete colores diferentes integrados y ajusta el brillo de las teclas de acuerdo con tus necesidades.",
+      "price": 18
+    },
+    {
+      "id": "6",
+      "title": "Tempest K20 Beast Teclado Mecánico Gaming RGB TKL Negro",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/43/433509/1747-tempest-k20-beast-teclado-mecanico-gaming-rgb-tkl-negro.jpg",
+      "description": "Para vosotros jugadores ha llegado la nueva bestia dentro de la gama de teclados. El nuevo Tempest Keyboard K20 Beast. Un teclado con un diseño gaming exclusivo para ofrecerte la mayor garantía y éxito en tus partidas. Su supresión de teclado numérico lateral te proporciona una libertad de movimiento más amplia con el objetivo de que tu tiempo de reacción y respuesta, se reduzcan considerablemente, ya que te evitará el efecto choque entre ratón y teclado. Si quieres marcar la diferencia adquiere ya este teclado.",
+      "price": 18
+    },
+    {
+      "id": "7",
+      "title": "Razer Kraken Auriculares Gaming Negros",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/20/207517/00.jpg",
+      "description": "Razer Kraken, los auriculares gaming han evolucionado. Desde su inicio, el Razer Kraken ha construido una reputación como un clásico de culto dentro de la comunidad de juegos. Hizo su marca como un elemento básico en innumerables eventos de juegos, convenciones y torneos. Ahora hemos mejorado las características de esta multitud favorita, no solo para mejorar la calidad de audio sino también para hacerla más cómoda para que puedas jugar todo el día con los auriculares que te encantan. Este es el nuevo Razer Kraken.",
+      "price": 70
+    },
+    {
+      "id": "8",
+      "title": "Razer Kraken X Auriculares Gaming 71 Multiplataforma Blancos",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/34/343020/1964-razer-kraken-x-auriculares-gaming-71-multiplataforma-blancos.jpg",
+      "description": "¿Y si te dijéramos que puedes disfrutar de una inmersión total cuando juegas sin apenas notar los auriculares? Te presentamos Razer Kraken X. Unos auriculares ultraligeros de 250 g para una inmersión total con un sonido envolvente 7.1. Relájate y juega durante horas: tus maratones de juegos serán un paseo.",
+      "price": 55
+    },
+    {
+      "id": "9",
+      "title": "Razer Kraken Bluetooth Kitty Auriculares Gaming Inalámbricos",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/33/331216/1678-razer-kraken-bluetooth-kitty-auriculares-gaming-inalambricos.jpg",
+      "description": "EL FACTOR GATUNO. AHORA PORTÁTIL. Expresa libremente tu instinto asesino felino con los Razer Kraken BT Kitty Edition, unos auriculares inalámbricos Bluetooth con orejas de gato personalizadas e iluminación equipados con diafragmas de 40 mm con un sonido nítido.",
+      "price": 110
+    },
+    {
+      "id": "10",
+      "title": "Steelseries Arctis Pro Wireless Negros",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/29/298473/steelseries-arctis-pro-wireless-negros.jpg",
+      "description": "El audio de alta fidelidad llega a los juegos por primera vez. Los controladores de altavoz con capacidad de alta resolución y una solución inalámbrica sin pérdida y sin demoras hacen que Arctis Pro Wireless sea el único sistema de audio de juegos de alta fidelidad verdaderamente inalámbrico.",
+      "price": 430
+    },
+    {
+      "id": "11",
+      "title": "MSI Optix G271 27'' LED IPS FullHD 144Hz FreeSync",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/25/257415/msi-optix-g271-27-led-ips-fullhd-144hz-freesync-e5bc6000-5d0d-42bb-8b3b-9340643ae95b.jpg",
+      "description": "Visualice su victoria con el monitor de juegos eSports MSI Optix G271. Equipado con una velocidad de actualización de 1920x1080, 144 Hz, panel de tiempo de respuesta de 1 ms, el Optix G271 le dará la ventaja competitiva que necesita para derrotar a sus oponentes. Construido con tecnología FreeSync, el Optix G271 puede igualar la frecuencia de actualización de la pantalla con su GPU para un juego ultra suave. Asegúrate de que puedes dar en el blanco con todas las últimas tecnologías integradas en los monitores MSI eSports Gaming para un juego competitivo.",
+      "price": 255
+    },
+    {
+      "id": "12",
+      "title": "Newskill Icarus IC27F2-V2P 29'' LED FullHD 240Hz G-Sync Compatible Curva",
+      "image": "https://thumb.pccomponentes.com/w-530-530/articles/47/478101/1403-newskill-icarus-ic27f2-v2p-27-led-fullhd-240hz-g-sync-compatible-curva-e4e7f24c-d467-4e34-b550-c6b35b0c2b1f.jpg",
+      "description": "Presentamos el modelo Icarus 27” FHD R1500 VA 240Hz - IC27F2-V2P, con pantalla curva, que se une a nuestra familia de monitores Icarus. Su imponente alta tasa de refresco, de hasta 240Hz, lo hacen perfecto para jugar, permitiendo imágenes increíblemente fluidas. Déjate enamorar por su pantalla curva y su tiempo de respuesta de 1Ms MPRT, con el que dominarás todas tus partidas.",
+      "price": 280
+    }
+  ]
+}
